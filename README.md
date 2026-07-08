@@ -34,7 +34,7 @@ Benerin.co.id berfokus pada penyediaan layanan utilitas berkualitas dengan tiga 
 
 ## 📄 Struktur Dokumen Utama
 
-Semua detail operasional dan strategi bisnis dirangkum secara profesional dalam berkas [summary.md](file:///d:/ARCHIVES%20DOCUMENT%20LUKNI/00.%20TRIAS%20DIGITAL%20LABS/benerin.co.id/summary.md). Dokumen tersebut mencakup:
+Semua detail operasional dan strategi bisnis dirangkum secara profesional dalam berkas [blueprint-plan.md](file:///d:/ARCHIVES%20DOCUMENT%20LUKNI/00.%20TRIAS%20DIGITAL%20LABS/benerin.co.id/blueprint-plan.md). Dokumen tersebut mencakup:
 
 * **Bagian 1: SOP Blueprint**: Alur operasional kerja mulai dari kualifikasi CS hingga audit Quality Control digital.
 * **Bagian 2: Roadmap Strategis 2026**: Rencana taktis tahunan yang dibagi menjadi empat kuartal (*Foundation, Penetration, Optimization, Scaling*).
