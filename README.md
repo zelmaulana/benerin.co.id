@@ -1,8 +1,4 @@
 # Benerin.co.id - Platform Perawatan & Utilitas Bangunan
-
-[![GitHub branch](https://img.shields.io/github/indicators/branch/zelmaulana/benerin.co.id/main?label=branch&color=blue)](https://github.com/zelmaulana/benerin.co.id)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zelmaulana/benerin.co.id/graphs/commit-activity)
-
 **Benerin.co.id** adalah platform digital penyedia jasa perawatan dan utilitas bangunan bergaransi terpercaya di Indonesia. Kami menyediakan solusi perbaikan cepat, perawatan tepat, dan pemeliharaan properti terintegrasi untuk segmen retail (**B2C**) maupun korporat/bisnis (**B2B**).
 
 Repositori ini menyimpan cetak biru operasional, rencana taktis jangka menengah, metrik performa organisasi, skema finansial kompensasi, instrumen *sales kit*, serta strategi pengelolaan risiko bisnis.
